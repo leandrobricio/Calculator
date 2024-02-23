@@ -1,0 +1,14 @@
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\bin\Debug\net8.0\exemplos fundamentos.exe
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\bin\Debug\net8.0\exemplos fundamentos.deps.json
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\bin\Debug\net8.0\exemplos fundamentos.runtimeconfig.json
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\bin\Debug\net8.0\exemplos fundamentos.dll
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\bin\Debug\net8.0\exemplos fundamentos.pdb
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\exemplos fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\exemplos fundamentos.AssemblyInfoInputs.cache
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\exemplos fundamentos.AssemblyInfo.cs
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\exemplos fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\exemplos fundamentos.dll
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\refint\exemplos fundamentos.dll
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\exemplos fundamentos.pdb
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\exemplos fundamentos.genruntimeconfig.cache
+C:\Users\lbfju\OneDrive\Área de Trabalho\projetos\exemplos fundamentos\obj\Debug\net8.0\ref\exemplos fundamentos.dll
